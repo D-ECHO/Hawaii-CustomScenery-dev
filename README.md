@@ -19,7 +19,7 @@ This repository includes the scripts and data that was used for generating the "
 * SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/
 * Landcover Data from http://geoportal.hawaii.gov/datasets (Land Use Land Cover (LULC), Airports, Wetlands, Golf Courses, Agricultural Land Use Maps (ALUM), State Land Use Districts)
 	"State of Hawaii Terms of Use. The contents of this web page are public domain and to the extent indicated otherwise in the Terms of Use, are exempt from Terms of Use policy restrictions."
-* Landcover Data from http://download.geofabrik.de and https://osmdata.openstreetmap.de/data/land-polygons.html
+* Landcover Data from http://download.geofabrik.de and https://osmdata.openstreetmap.de/data/land-polygons.html under ODbL 1.0
 * Airport Data from https://gateway.x-plane.com
 * Objects from FlightGear's terrasync (see scenery.flightgear.org)
 
